@@ -8,7 +8,7 @@ int main()
     cout << "¬ведите 2 числа" << endl;
     cin >> a;
     cin >> b;
-
+    cout << a+b ;
 
     return 0;
 }
